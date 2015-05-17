@@ -1,0 +1,256 @@
+CODIGO ; NIVEL DE ACCESO ; NOMBRE ; CATEGORIA ; DESCRIPCION CORTA ; DESCRIPCION ; IMPORTE ; ACTIVO/EN VENTA ; NOMBRE ARCHIVO IMAGEN  ; NOMBRE SKU ; COLOR ; CODIGO DE BARRAS DE FORMATO ; LONGITUD ; ANCHO ; ALTO ; ABREVIACION DE UNIDAD DE MEDIDA DE LONGITUD ; ABREVIACION DE UNIDAD DE MEDIDA DE CANTIDAD ; NIVEL DE ACCESO DEL FORMATO ; ACTUALIZAR PAR√ÅMETROS ; ACTUALIZAR GALERIA IMAGENES DE PRODUCTO ; ACTUALIZAR GALERIA IMAGENES DE FORMATO
+09738        ; 100 ; Zapatero con puerta de espejo  ; Mueble ;  ;  ; 0 ; 1 ;  ; 09738        ;  ; 8435406100108 ; 50 ; 8 ; 0 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+09768        ; 100 ; Canasto balancÌn cojÌn blanco  ; Mueble ;  ;  ; 0 ; 1 ;  ; 09768        ;  ; 8435406100115 ; 100 ; 196 ; 0 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+09794        ; 100 ; Conjunto 2 sillas polipiel     ; Mueble ;  ;  ; 0 ; 1 ;  ; 09794        ;  ; 8435406100122 ; 100 ; 46 ; 105 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+09916        ; 100 ; Zapatero con puertas abatibles ; Mueble ;  ;  ; 0 ; 1 ;  ; 09916        ;  ; 8435406100139 ; 59 ; 8 ; 105 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+09924        ; 100 ; Conjunto de mesa con 4 sillas  ; Mueble ;  ;  ; 0 ; 1 ;  ; 09924        ;  ; 8435406100153 ; 80 ; 47 ; 105 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+14870        ; 100 ; Cuadro Ûleo ·rbol              ; Mueble ;  ;  ; 0 ; 1 ;  ; 14870        ;  ; 8435406130822 ; 4 ; 120 ; 105 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+14871        ; 100 ; Cuadro Ûleo ·rbol              ; Mueble ;  ;  ; 0 ; 1 ;  ; 14871        ;  ; 8435406130877 ; 4 ; 120 ; 105 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+14872        ; 100 ; Cuadro Ûleo buda               ; Mueble ;  ;  ; 0 ; 1 ;  ; 14872        ;  ; 8435406130884 ; 4 ; 60 ; 105 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+14873        ; 100 ; Cuadro Ûleo buda               ; Mueble ;  ;  ; 0 ; 1 ;  ; 14873        ;  ; 8435406130891 ; 4 ; 60 ; 105 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+14874        ; 100 ; Cuadro Ûleo ·rboles            ; Mueble ;  ;  ; 0 ; 1 ;  ; 14874        ;  ; 8435406130907 ; 4 ; 50 ; 105 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+14875        ; 100 ; Cuadro Ûleo ·rboles            ; Mueble ;  ;  ; 0 ; 1 ;  ; 14875        ;  ; 8435406130914 ; 4 ; 50 ; 105 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+14876        ; 100 ; Cuadro Ûleo jarrones           ; Mueble ;  ;  ; 0 ; 1 ;  ; 14876        ;  ; 8435406130921 ; 4 ; 50 ; 105 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+14879        ; 100 ; Cuadro Ûleo mujer              ; Mueble ;  ;  ; 0 ; 1 ;  ; 14879        ;  ; 8435406130952 ; 4 ; 100 ; 105 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+14880        ; 100 ; Cuadro Ûleo mujer              ; Mueble ;  ;  ; 0 ; 1 ;  ; 14880        ;  ; 8435406130969 ; 4 ; 100 ; 105 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+14881        ; 100 ; Cuadro Ûleo cara buda          ; Mueble ;  ;  ; 0 ; 1 ;  ; 14881        ;  ; 8435406130976 ; 4 ; 100 ; 105 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+14882        ; 100 ; Cuadro Ûleo cara buda          ; Mueble ;  ;  ; 0 ; 1 ;  ; 14882        ;  ; 8435406130983 ; 4 ; 100 ; 105 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+14883        ; 100 ; Cuadro Ûleo ·rbol verde        ; Mueble ;  ;  ; 0 ; 1 ;  ; 14883        ;  ; 8435406130990 ; 4 ; 100 ; 105 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+14884        ; 100 ; Cuadro Ûleo ·rbol gris         ; Mueble ;  ;  ; 0 ; 1 ;  ; 14884        ;  ; 8435406131003 ; 4 ; 100 ; 105 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+14885        ; 100 ; Cuadro Ûleo flores             ; Mueble ;  ;  ; 0 ; 1 ;  ; 14885        ;  ; 8435406131010 ; 4 ; 120 ; 105 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+14886        ; 100 ; Cuadro Ûleo flores             ; Mueble ;  ;  ; 0 ; 1 ;  ; 14886        ;  ; 8435406131027 ; 4 ; 120 ; 105 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+14887        ; 100 ; Cuadro Ûleo flores             ; Mueble ;  ;  ; 0 ; 1 ;  ; 14887        ;  ; 8435406131034 ; 4 ; 120 ; 105 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+14888        ; 100 ; Cuadro Ûleo rama p˙rpura       ; Mueble ;  ;  ; 0 ; 1 ;  ; 14888        ;  ; 8435406131041 ; 4 ; 120 ; 105 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+14889        ; 100 ; Cuadro Ûleo rama p˙rpura       ; Mueble ;  ;  ; 0 ; 1 ;  ; 14889        ;  ; 8435406131058 ; 4 ; 120 ; 105 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+14890        ; 100 ; Cuadro Ûleo rama p˙rpura       ; Mueble ;  ;  ; 0 ; 1 ;  ; 14890        ;  ; 8435406131065 ; 4 ; 120 ; 105 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+14891        ; 100 ; Cuadro Ûleo rama rosa          ; Mueble ;  ;  ; 0 ; 1 ;  ; 14891        ;  ; 8435406131072 ; 4 ; 120 ; 105 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+14892        ; 100 ; Cuadro Ûleo rama rosa          ; Mueble ;  ;  ; 0 ; 1 ;  ; 14892        ;  ; 8435406131089 ; 4 ; 120 ; 105 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+14893        ; 100 ; Cuadro Ûleo rama rosa          ; Mueble ;  ;  ; 0 ; 1 ;  ; 14893        ;  ; 8435406131096 ; 4 ; 120 ; 105 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+14895        ; 100 ; Cuadro Ûleo abstracto          ; Mueble ;  ;  ; 0 ; 1 ;  ; 14895        ;  ; 8435406131119 ; 4 ; 90 ; 105 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+14896        ; 100 ; Cuadro digital flores          ; Mueble ;  ;  ; 0 ; 1 ;  ; 14896        ;  ; 8435406131126 ; 4 ; 60 ; 105 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+14897        ; 100 ; Cuadro digital flores          ; Mueble ;  ;  ; 0 ; 1 ;  ; 14897        ;  ; 8435406131133 ; 4 ; 60 ; 105 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+14898        ; 100 ; Cuadro digital flores          ; Mueble ;  ;  ; 0 ; 1 ;  ; 14898        ;  ; 8435406131140 ; 4 ; 60 ; 105 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+14902        ; 100 ; Cuadro digital flores rojas    ; Mueble ;  ;  ; 0 ; 1 ;  ; 14902        ;  ; 8435406131188 ; 4 ; 60 ; 105 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+14903        ; 100 ; Cuadro digital flores rojas    ; Mueble ;  ;  ; 0 ; 1 ;  ; 14903        ;  ; 8435406131195 ; 4 ; 60 ; 105 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+14904        ; 100 ; Cuadro digital mariposa        ; Mueble ;  ;  ; 0 ; 1 ;  ; 14904        ;  ; 8435406131201 ; 4 ; 60 ; 105 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+14905        ; 100 ; Cuadro digital Marilyn         ; Mueble ;  ;  ; 0 ; 1 ;  ; 14905        ;  ; 8435406131218 ; 4 ; 80 ; 105 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+14906        ; 100 ; Cuadro digital Marilyn         ; Mueble ;  ;  ; 0 ; 1 ;  ; 14906        ;  ; 8435406131225 ; 4 ; 80 ; 105 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+14907        ; 100 ; Cuadro digital Audrey          ; Mueble ;  ;  ; 0 ; 1 ;  ; 14907        ;  ; 8435406131232 ; 4 ; 80 ; 105 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+14908        ; 100 ; Cuadro digital Audrey          ; Mueble ;  ;  ; 0 ; 1 ;  ; 14908        ;  ; 8435406131249 ; 4 ; 80 ; 105 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+14909        ; 100 ; Cuadro digital mapamundi       ; Mueble ;  ;  ; 0 ; 1 ;  ; 14909        ;  ; 8435406131256 ; 4 ; 60 ; 105 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+14910        ; 100 ; Cuadro digital mapamundi       ; Mueble ;  ;  ; 0 ; 1 ;  ; 14910        ;  ; 8435406131263 ; 4 ; 60 ; 105 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+14911        ; 100 ; Cuadro digital mapamundi       ; Mueble ;  ;  ; 0 ; 1 ;  ; 14911        ;  ; 8435406130839 ; 4 ; 60 ; 105 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+14912        ; 100 ; Cuadro Coral plata             ; Mueble ;  ;  ; 0 ; 1 ;  ; 14912        ;  ; 8435406134691 ; 80 ; 6 ; 80 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+14913        ; 100 ; Cuadro Mosaico Plata 90x90cm.  ; Mueble ;  ;  ; 0 ; 1 ;  ; 14913        ;  ; 8435406139085 ; 90 ; 7 ; 90 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+14914        ; 100 ; Cuadro collares plata          ; Mueble ;  ;  ; 0 ; 1 ;  ; 14914        ;  ; 8435406139092 ; 160 ; 8 ; 60 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+14915        ; 100 ; Cuadro Buda Plata 80X120CM.    ; Mueble ;  ;  ; 0 ; 1 ;  ; 14915        ;  ; 8435406139108 ; 80 ; 13 ; 120 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+14916        ; 100 ; Cuadro Puntos plata            ; Mueble ;  ;  ; 0 ; 1 ;  ; 14916        ;  ; 8435406139115 ; 90 ; 9 ; 90 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+14917        ; 100 ; Cuadro circulos plata          ; Mueble ;  ;  ; 0 ; 1 ;  ; 14917        ;  ; 8435406139122 ; 90 ; 9 ; 90 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+14918        ; 100 ; Cuadro circulo blanco          ; Mueble ;  ;  ; 0 ; 1 ;  ; 14918        ;  ; 8435406139139 ; 90 ; 7 ; 90 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+14919        ; 100 ; Cuadro burbujas marco negro    ; Mueble ;  ;  ; 0 ; 1 ;  ; 14919        ;  ; 8435406139146 ; 160 ; 5 ; 60 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+14920        ; 100 ; Cuadro Buda plata              ; Mueble ;  ;  ; 0 ; 1 ;  ; 14920        ;  ; 8435406139153 ; 70 ; 5 ; 100 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+14921        ; 100 ; Cuadro plata mosaico           ; Mueble ;  ;  ; 0 ; 1 ;  ; 14921        ;  ; 8435406139160 ; 90 ; 6 ; 90 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+14922        ; 100 ; Cuadro mosaico plata           ; Mueble ;  ;  ; 0 ; 1 ;  ; 14922        ;  ; 8435406139177 ; 90 ; 6 ; 90 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+14923        ; 100 ; Cuadro hojas plata             ; Mueble ;  ;  ; 0 ; 1 ;  ; 14923        ;  ; 8435406139184 ; 90 ; 6 ; 90 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+14924        ; 100 ; Cuadro collar plata            ; Mueble ;  ;  ; 0 ; 1 ;  ; 14924        ;  ; 8435406139191 ; 90 ; 5 ; 90 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+14925        ; 100 ; Cuadro collar plata            ; Mueble ;  ;  ; 0 ; 1 ;  ; 14925        ;  ; 8435406134707 ; 90 ; 5 ; 90 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+40756        ; 100 ; Plato llano de porcelana Lerr  ; Mueble ;  ;  ; 0 ; 1 ;  ; 40756        ;  ; 8001544074252 ; 19 ; 3 ; 90 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+40758        ; 100 ; Tetera de porcelana Lerr       ; Mueble ;  ;  ; 0 ; 1 ;  ; 40758        ;  ; 8001544074108 ; 14 ; 15 ; 90 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+40759        ; 100 ; Taza de porcelana Lerr         ; Mueble ;  ;  ; 0 ; 1 ;  ; 40759        ;  ; 8001544074207 ; 9 ; 10 ; 90 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+40761        ; 100 ; Taza con plato porcelana Lerr  ; Mueble ;  ;  ; 0 ; 1 ;  ; 40761        ;  ; 8001544074177 ; 13 ; 7 ; 90 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+40762        ; 100 ; Cuenco de porcelana Lerr       ; Mueble ;  ;  ; 0 ; 1 ;  ; 40762        ;  ; 8001544074283 ; 23 ; 6 ; 90 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+40763        ; 100 ; Estande de 2 platos Lerr       ; Mueble ;  ;  ; 0 ; 1 ;  ; 40763        ;  ; 8001544074160 ; 28 ; 5 ; 90 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+40764        ; 100 ; Bandeja con asas Spbu          ; Mueble ;  ;  ; 0 ; 1 ;  ; 40764        ;  ; 8001544080352 ; 31 ; 5 ; 90 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+40765        ; 100 ; Plato llano de porcelana Spbu  ; Mueble ;  ;  ; 0 ; 1 ;  ; 40765        ;  ; 8001544073941 ; 27 ; 3 ; 90 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+40766        ; 100 ; Plato hondo de porcelana Spbu  ; Mueble ;  ;  ; 0 ; 1 ;  ; 40766        ;  ; 8001544073996 ; 22 ; 3 ; 90 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+40767        ; 100 ; Plato de postre porcelana SPBU ; Mueble ;  ;  ; 0 ; 1 ;  ; 40767        ;  ; 8001544074009 ; 17 ; 2 ; 90 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+40768        ; 100 ; Tetera de porcelana Spbu       ; Mueble ;  ;  ; 0 ; 1 ;  ; 40768        ;  ; 8001544073972 ; 22 ; 14 ; 15 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+40770        ; 100 ; Taza con plato porcelana Spbu  ; Mueble ;  ;  ; 0 ; 1 ;  ; 40770        ;  ; 8001544073958 ; 16 ; 12 ; 280 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+40771        ; 100 ; Taza con plato porcelana Spbu  ; Mueble ;  ;  ; 0 ; 1 ;  ; 40771        ;  ; 8001544073934 ; 13 ; 7 ; 140 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+40772        ; 100 ; Ensaladera de porcelana Spbu   ; Mueble ;  ;  ; 0 ; 1 ;  ; 40772        ;  ; 8001544074344 ; 23 ; 6 ; 140 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+40773        ; 100 ; Entremesero de 2 platos Spbu   ; Mueble ;  ;  ; 0 ; 1 ;  ; 40773        ;  ; 8001544073927 ; 28 ; 40 ; 140 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+40775        ; 100 ; Plato llano porcelana JardÌn   ; Mueble ;  ;  ; 0 ; 1 ;  ; 40775        ;  ; 8001544061375 ; 27 ; 2 ; 140 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+40776        ; 100 ; Plato hondo porcelana JardÌn   ; Mueble ;  ;  ; 0 ; 1 ;  ; 40776        ;  ; 8001544061245 ; 22 ; 3 ; 140 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+40777        ; 100 ; Cuenco de porcelana JardÌn     ; Mueble ;  ;  ; 0 ; 1 ;  ; 40777        ;  ; 8001544061382 ; 15 ; 8 ; 140 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+40778        ; 100 ; Taza de porcelana JardÌn       ; Mueble ;  ;  ; 0 ; 1 ;  ; 40778        ;  ; 8001544061238 ; 9 ; 10 ; 350 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+40779        ; 100 ; Taza y plato porcelana JardÌn  ; Mueble ;  ;  ; 0 ; 1 ;  ; 40779        ;  ; 8001544061351 ; 16 ; 10 ; 350 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+40780        ; 100 ; Taza y plato porcelana JardÌn  ; Mueble ;  ;  ; 0 ; 1 ;  ; 40780        ;  ; 8001544061221 ; 16 ; 9 ; 350 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+40781        ; 100 ; Taza y plato porcelana JardÌn  ; Mueble ;  ;  ; 0 ; 1 ;  ; 40781        ;  ; 8001544061214 ; 13 ; 7 ; 140 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+40782        ; 100 ; Bajo plato de vidrio Khaki     ; Mueble ;  ;  ; 0 ; 1 ;  ; 40782        ;  ; 8001544061757 ; 32 ; 3 ; 140 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+40783        ; 100 ; Plato llano de porcelan Khaki  ; Mueble ;  ;  ; 0 ; 1 ;  ; 40783        ;  ; 8001544061412 ; 27 ; 2 ; 140 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+40784        ; 100 ; Plato hondo de porcelana Khaki ; Mueble ;  ;  ; 0 ; 1 ;  ; 40784        ;  ; 8001544061290 ; 22 ; 3 ; 140 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+40785        ; 100 ; TazÛn de porcelan Khaki        ; Mueble ;  ;  ; 0 ; 1 ;  ; 40785        ;  ; 8001544061429 ; 15 ; 8 ; 140 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+40786        ; 100 ; Taza de porcelana Khaki        ; Mueble ;  ;  ; 0 ; 1 ;  ; 40786        ;  ; 8001544061283 ; 9 ; 10 ; 350 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+40787        ; 100 ; Taza y plato porcelana Khaki   ; Mueble ;  ;  ; 0 ; 1 ;  ; 40787        ;  ; 8001544061399 ; 16 ; 9 ; 370 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+40788        ; 100 ; Taza y plato porcelana Khaki   ; Mueble ;  ;  ; 0 ; 1 ;  ; 40788        ;  ; 8001544061276 ; 16 ; 9 ; 280 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+40789        ; 100 ; Taza y plato porcelana Khaki   ; Mueble ;  ;  ; 0 ; 1 ;  ; 40789        ;  ; 8001544061269 ; 13 ; 7 ; 140 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+40791        ; 100 ; Plato llano Jardin Red         ; Mueble ;  ;  ; 0 ; 1 ;  ; 40791        ;  ; 8001544061337 ; 27 ; 2 ; 140 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+40792        ; 100 ; Plato hondo Jardin Red         ; Mueble ;  ;  ; 0 ; 1 ;  ; 40792        ;  ; 8001544061436 ; 22 ; 3 ; 140 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+40793        ; 100 ; TazÛn de porcelana Jardin Red  ; Mueble ;  ;  ; 0 ; 1 ;  ; 40793        ;  ; 8001544061344 ; 15 ; 8 ; 140 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+40794        ; 100 ; Taza de porcelana Jardin Red   ; Mueble ;  ;  ; 0 ; 1 ;  ; 40794        ;  ; 8001544061191 ; 9 ; 10 ; 350 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+40795        ; 100 ; Taza con plato Jardin Red      ; Mueble ;  ;  ; 0 ; 1 ;  ; 40795        ;  ; 8001544061313 ; 16 ; 9 ; 370 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+40796        ; 100 ; Taza con plato Jardin Red      ; Mueble ;  ;  ; 0 ; 1 ;  ; 40796        ;  ; 8001544061184 ; 16 ; 10 ; 280 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+40797        ; 100 ; Taza con plato porcelana Jardi ; Mueble ;  ;  ; 0 ; 1 ;  ; 40797        ;  ; 8001544061177 ; 13 ; 7 ; 140 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+40798        ; 100 ; Plato postre porcelana Jardin  ; Mueble ;  ;  ; 0 ; 1 ;  ; 40798        ;  ; 8001544061122 ; 17 ; 2 ; 140 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+40799        ; 100 ; Bandeja de melamina Jardin     ; Mueble ;  ;  ; 0 ; 1 ;  ; 40799        ;  ; 8001544065786 ; 31 ; 5 ; 140 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+40800        ; 100 ; Azucarero de porcelana Jardin  ; Mueble ;  ;  ; 0 ; 1 ;  ; 40800        ;  ; 8001544061016 ; 10 ; 10 ; 140 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+40801        ; 100 ; Lechera de porcelana Jardin    ; Mueble ;  ;  ; 0 ; 1 ;  ; 40801        ;  ; 8001544061009 ; 7 ; 10 ; 140 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+40802        ; 100 ; Entremesero con 2 platos Jardi ; Mueble ;  ;  ; 0 ; 1 ;  ; 40802        ;  ; 8001544061054 ; 28 ; 5 ; 140 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+40803        ; 100 ; Tetera de porcelana Jardin     ; Mueble ;  ;  ; 0 ; 1 ;  ; 40803        ;  ; 8001544060996 ; 14 ; 15 ; 140 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+40807        ; 100 ; CojÌn Jordan gris              ; Mueble ;  ;  ; 0 ; 1 ;  ; 40807        ;  ; 8435406129659 ; 50 ; 30 ; 10 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+40808        ; 100 ; CojÌn Jordan gris              ; Mueble ;  ;  ; 0 ; 1 ;  ; 40808        ;  ; 8435406129666 ; 45 ; 45 ; 10 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+40809        ; 100 ; CojÌn Jordan morado            ; Mueble ;  ;  ; 0 ; 1 ;  ; 40809        ;  ; 8435406129673 ; 50 ; 30 ; 10 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+40810        ; 100 ; CojÌn Jordan morado            ; Mueble ;  ;  ; 0 ; 1 ;  ; 40810        ;  ; 8435406129680 ; 45 ; 45 ; 10 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+40811        ; 100 ; CojÌn Jordan marrÛn            ; Mueble ;  ;  ; 0 ; 1 ;  ; 40811        ;  ; 8435406129697 ; 50 ; 30 ; 10 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+40812        ; 100 ; CojÌn Jordan marrÛn            ; Mueble ;  ;  ; 0 ; 1 ;  ; 40812        ;  ; 8435406129703 ; 45 ; 45 ; 10 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+40814        ; 100 ; CojÌn Florida marrÛn           ; Mueble ;  ;  ; 0 ; 1 ;  ; 40814        ;  ; 8435406129727 ; 45 ; 45 ; 10 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+40815        ; 100 ; CojÌn Vans negro               ; Mueble ;  ;  ; 0 ; 1 ;  ; 40815        ;  ; 8435406129734 ; 45 ; 45 ; 10 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+40816        ; 100 ; CojÌn Vans morado              ; Mueble ;  ;  ; 0 ; 1 ;  ; 40816        ;  ; 8435406129741 ; 45 ; 45 ; 10 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+40817        ; 100 ; CojÌn Londres beige            ; Mueble ;  ;  ; 0 ; 1 ;  ; 40817        ;  ; 8435406129758 ; 45 ; 45 ; 10 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+40818        ; 100 ; CojÌn Londres beige            ; Mueble ;  ;  ; 0 ; 1 ;  ; 40818        ;  ; 8435406129765 ; 60 ; 60 ; 10 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+40819        ; 100 ; CojÌn Londres antracita        ; Mueble ;  ;  ; 0 ; 1 ;  ; 40819        ;  ; 8435406129772 ; 45 ; 45 ; 10 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+40820        ; 100 ; CojÌn Londres antracita        ; Mueble ;  ;  ; 0 ; 1 ;  ; 40820        ;  ; 8435406129789 ; 60 ; 60 ; 10 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+40823        ; 100 ; CojÌn Londres marrÛn           ; Mueble ;  ;  ; 0 ; 1 ;  ; 40823        ;  ; 8435406129819 ; 45 ; 45 ; 10 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+40824        ; 100 ; CojÌn Londres marrÛn           ; Mueble ;  ;  ; 0 ; 1 ;  ; 40824        ;  ; 8435406129826 ; 60 ; 60 ; 10 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+40825        ; 100 ; CojÌn tafet·n lino             ; Mueble ;  ;  ; 0 ; 1 ;  ; 40825        ;  ; 8435406129833 ; 45 ; 45 ; 10 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+40826        ; 100 ; CojÌn tafet·n plata            ; Mueble ;  ;  ; 0 ; 1 ;  ; 40826        ;  ; 8435406129840 ; 45 ; 45 ; 10 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+40827        ; 100 ; CojÌn tafetan negro            ; Mueble ;  ;  ; 0 ; 1 ;  ; 40827        ;  ; 8435406129857 ; 45 ; 45 ; 10 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+40828        ; 100 ; CojÌn tafet·n cardenal         ; Mueble ;  ;  ; 0 ; 1 ;  ; 40828        ;  ; 8435406129864 ; 45 ; 45 ; 10 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+40829        ; 100 ; CojÌn tafet·n marrÛn           ; Mueble ;  ;  ; 0 ; 1 ;  ; 40829        ;  ; 8435406129871 ; 45 ; 45 ; 10 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+40830        ; 100 ; CojÌn b˙hos beige              ; Mueble ;  ;  ; 0 ; 1 ;  ; 40830        ;  ; 8435406129888 ; 45 ; 45 ; 10 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+40831        ; 100 ; CojÌn b˙hos blanco             ; Mueble ;  ;  ; 0 ; 1 ;  ; 40831        ;  ; 8435406129895 ; 45 ; 45 ; 10 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+40832        ; 100 ; CojÌn Chelsea                  ; Mueble ;  ;  ; 0 ; 1 ;  ; 40832        ;  ; 8435406129901 ; 45 ; 45 ; 10 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+40833        ; 100 ; CojÌn matrÌculas de colores    ; Mueble ;  ;  ; 0 ; 1 ;  ; 40833        ;  ; 8435406129918 ; 45 ; 45 ; 10 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+40834        ; 100 ; CojÌn matrÌculas negro y rojo  ; Mueble ;  ;  ; 0 ; 1 ;  ; 40834        ;  ; 8435406129925 ; 45 ; 45 ; 10 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+40835        ; 100 ; CojÌn reloj marrÛn             ; Mueble ;  ;  ; 0 ; 1 ;  ; 40835        ;  ; 8435406129932 ; 45 ; 45 ; 10 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+40836        ; 100 ; CojÌn reloj negro              ; Mueble ;  ;  ; 0 ; 1 ;  ; 40836        ;  ; 8435406129949 ; 45 ; 45 ; 10 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+40837        ; 100 ; CojÌn route                    ; Mueble ;  ;  ; 0 ; 1 ;  ; 40837        ;  ; 8435406129956 ; 45 ; 45 ; 10 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+40838        ; 100 ; CojÌn mariposas                ; Mueble ;  ;  ; 0 ; 1 ;  ; 40838        ;  ; 8435406129963 ; 45 ; 45 ; 10 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+40839        ; 100 ; CojÌn manzanas                 ; Mueble ;  ;  ; 0 ; 1 ;  ; 40839        ;  ; 8435406129970 ; 45 ; 45 ; 10 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+40840        ; 100 ; CojÌn serpiente beige          ; Mueble ;  ;  ; 0 ; 1 ;  ; 40840        ;  ; 8435406129987 ; 45 ; 45 ; 10 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+40841        ; 100 ; CojÌn serpiente beige          ; Mueble ;  ;  ; 0 ; 1 ;  ; 40841        ;  ; 8435406129994 ; 60 ; 60 ; 10 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+40842        ; 100 ; CojÌn serpiente negro          ; Mueble ;  ;  ; 0 ; 1 ;  ; 40842        ;  ; 8435406130006 ; 45 ; 45 ; 10 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+40843        ; 100 ; CojÌn serpiente negro          ; Mueble ;  ;  ; 0 ; 1 ;  ; 40843        ;  ; 8435406130013 ; 60 ; 60 ; 10 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+40844        ; 100 ; CojÌn tigre beige              ; Mueble ;  ;  ; 0 ; 1 ;  ; 40844        ;  ; 8435406130020 ; 45 ; 45 ; 10 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+40845        ; 100 ; CojÌn tigre beige              ; Mueble ;  ;  ; 0 ; 1 ;  ; 40845        ;  ; 8435406130037 ; 60 ; 60 ; 10 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+40846        ; 100 ; CojÌn tigre negro              ; Mueble ;  ;  ; 0 ; 1 ;  ; 40846        ;  ; 8435406130044 ; 45 ; 45 ; 10 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+40847        ; 100 ; CojÌn tigre negro              ; Mueble ;  ;  ; 0 ; 1 ;  ; 40847        ;  ; 8435406130051 ; 60 ; 60 ; 10 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+40848        ; 100 ; CojÌn Vespa                    ; Mueble ;  ;  ; 0 ; 1 ;  ; 40848        ;  ; 8435406130068 ; 45 ; 45 ; 10 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+40849        ; 100 ; CojÌn Vespa                    ; Mueble ;  ;  ; 0 ; 1 ;  ; 40849        ;  ; 8435406130075 ; 60 ; 60 ; 10 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+40850        ; 100 ; CojÌn Vespa classic            ; Mueble ;  ;  ; 0 ; 1 ;  ; 40850        ;  ; 8435406130082 ; 45 ; 45 ; 10 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+40851        ; 100 ; CojÌn zapatilla                ; Mueble ;  ;  ; 0 ; 1 ;  ; 40851        ;  ; 8435406130099 ; 45 ; 45 ; 10 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+40852        ; 100 ; CojÌn sellos                   ; Mueble ;  ;  ; 0 ; 1 ;  ; 40852        ;  ; 8435406130105 ; 45 ; 45 ; 10 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+40853        ; 100 ; CojÌn perfumes                 ; Mueble ;  ;  ; 0 ; 1 ;  ; 40853        ;  ; 8435406130112 ; 45 ; 45 ; 10 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+40854        ; 100 ; CojÌn plumas                   ; Mueble ;  ;  ; 0 ; 1 ;  ; 40854        ;  ; 8435406130129 ; 45 ; 45 ; 10 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+40855        ; 100 ; CojÌn plumas                   ; Mueble ;  ;  ; 0 ; 1 ;  ; 40855        ;  ; 8435406130136 ; 60 ; 60 ; 10 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+40856        ; 100 ; CojÌn elefantes                ; Mueble ;  ;  ; 0 ; 1 ;  ; 40856        ;  ; 8435406130143 ; 45 ; 45 ; 10 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+40857        ; 100 ; CojÌn flor                     ; Mueble ;  ;  ; 0 ; 1 ;  ; 40857        ;  ; 8435406130150 ; 45 ; 45 ; 10 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+40858        ; 100 ; CojÌn flor                     ; Mueble ;  ;  ; 0 ; 1 ;  ; 40858        ;  ; 8435406130167 ; 60 ; 60 ; 10 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+40859        ; 100 ; CojÌn news                     ; Mueble ;  ;  ; 0 ; 1 ;  ; 40859        ;  ; 8435406130174 ; 45 ; 45 ; 10 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+40860        ; 100 ; CojÌn Motegi negro             ; Mueble ;  ;  ; 0 ; 1 ;  ; 40860        ;  ; 8435406130181 ; 45 ; 45 ; 10 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+40861        ; 100 ; CojÌn Motegi negro             ; Mueble ;  ;  ; 0 ; 1 ;  ; 40861        ;  ; 8435406130198 ; 50 ; 30 ; 10 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+40864        ; 100 ; CojÌn Motegi lila              ; Mueble ;  ;  ; 0 ; 1 ;  ; 40864        ;  ; 8435406130228 ; 45 ; 45 ; 10 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+40866        ; 100 ; CojÌn Motegi naranja           ; Mueble ;  ;  ; 0 ; 1 ;  ; 40866        ;  ; 8435406130242 ; 45 ; 45 ; 10 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+40867        ; 100 ; CojÌn Motegi naranja           ; Mueble ;  ;  ; 0 ; 1 ;  ; 40867        ;  ; 8435406130259 ; 50 ; 30 ; 10 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+50046        ; 100 ; Puff tela estampado            ; Mueble ;  ;  ; 0 ; 1 ;  ; 50046        ;  ; 8435406123503 ; 40 ; 40 ; 40 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+50047        ; 100 ; Puff tela estampado            ; Mueble ;  ;  ; 0 ; 1 ;  ; 50047        ;  ; 8435406123510 ; 40 ; 40 ; 40 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+50052        ; 100 ; Espejo marco blanco            ; Mueble ;  ;  ; 0 ; 1 ;  ; 50052        ;  ; 8435406123572 ; 75 ; 5 ; 95 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+50057        ; 100 ; Espejo marco plata             ; Mueble ;  ;  ; 0 ; 1 ;  ; 50057        ;  ; 8435406123626 ; 75 ; 5 ; 95 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+50058        ; 100 ; Silla escritorio matrÌculas    ; Mueble ;  ;  ; 0 ; 1 ;  ; 50058        ;  ; 8435406124074 ; 43 ; 42 ; 92 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+50059        ; 100 ; Silla escritorio fÛrmulas      ; Mueble ;  ;  ; 0 ; 1 ;  ; 50059        ;  ; 8435406124081 ; 43 ; 42 ; 92 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+50060        ; 100 ; Silla escritorio blanca        ; Mueble ;  ;  ; 0 ; 1 ;  ; 50060        ;  ; 8435406124098 ; 43 ; 42 ; 92 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+50061        ; 100 ; Silla escritorio Nueva York    ; Mueble ;  ;  ; 0 ; 1 ;  ; 50061        ;  ; 8435406124104 ; 43 ; 42 ; 92 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+50062        ; 100 ; Mesa escritorio mapa del mundo ; Mueble ;  ;  ; 0 ; 1 ;  ; 50062        ;  ; 8435406124111 ; 90 ; 50 ; 73 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+50063        ; 100 ; Mesa escritorio  city lights   ; Mueble ;  ;  ; 0 ; 1 ;  ; 50063        ;  ; 8435406124128 ; 80 ; 50 ; 77 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+50064        ; 100 ; Mesa escritorio cristal negro  ; Mueble ;  ;  ; 0 ; 1 ;  ; 50064        ;  ; 8435406124135 ; 100 ; 50 ; 75 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+50065        ; 100 ; Mesa escritorio cristal Londre ; Mueble ;  ;  ; 0 ; 1 ;  ; 50065        ;  ; 8435406124142 ; 120 ; 60 ; 75 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+50067        ; 100 ; Mesa escritorio cristal negro  ; Mueble ;  ;  ; 0 ; 1 ;  ; 50067        ;  ; 8435406124166 ; 120 ; 60 ; 76 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+50068        ; 100 ; Mesa escritorio Marilyn        ; Mueble ;  ;  ; 0 ; 1 ;  ; 50068        ;  ; 8435406124173 ; 113 ; 58 ; 73 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+50069        ; 100 ; Mesa escritorio cristal  city  ; Mueble ;  ;  ; 0 ; 1 ;  ; 50069        ;  ; 8435406124180 ; 110 ; 55 ; 75 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+50070        ; 100 ; Mesa escritorio cristal  USA   ; Mueble ;  ;  ; 0 ; 1 ;  ; 50070        ;  ; 8435406124197 ; 120 ; 60 ; 72 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+50071        ; 100 ; Mozo perchero negro            ; Mueble ;  ;  ; 0 ; 1 ;  ; 50071        ;  ; 8435406124203 ; 55 ; 55 ; 175 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+50072        ; 100 ; Mozo perchero blanco           ; Mueble ;  ;  ; 0 ; 1 ;  ; 50072        ;  ; 8435406124210 ; 55 ; 55 ; 175 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+50073        ; 100 ; Mozo perchero plateado         ; Mueble ;  ;  ; 0 ; 1 ;  ; 50073        ;  ; 8435406124227 ; 55 ; 55 ; 175 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+50074        ; 100 ; Espejo metal blanco            ; Mueble ;  ;  ; 0 ; 1 ;  ; 50074        ;  ; 8435406124234 ; 120 ; 3 ; 60 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+50075        ; 100 ; Espejo de metal blanco         ; Mueble ;  ;  ; 0 ; 1 ;  ; 50075        ;  ; 8435406124241 ; 90 ; 3 ; 90 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+50076        ; 100 ; Recibidor de metal blanco      ; Mueble ;  ;  ; 0 ; 1 ;  ; 50076        ;  ; 8435406124258 ; 90 ; 37 ; 75 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+50077        ; 100 ; Parag¸ero de metal blanco      ; Mueble ;  ;  ; 0 ; 1 ;  ; 50077        ;  ; 8435406124265 ; 24 ; 24 ; 60 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+50079        ; 100 ; Espejo de metal plata          ; Mueble ;  ;  ; 0 ; 1 ;  ; 50079        ;  ; 8435406124289 ; 90 ; 3 ; 90 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+50080        ; 100 ; Recibidor de metal plata       ; Mueble ;  ;  ; 0 ; 1 ;  ; 50080        ;  ; 8435406124296 ; 90 ; 37 ; 75 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+50081        ; 100 ; Parag¸ero de metal plata       ; Mueble ;  ;  ; 0 ; 1 ;  ; 50081        ;  ; 8435406124302 ; 24 ; 24 ; 60 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+50083        ; 100 ; Juego de dos mesas de metal    ; Mueble ;  ;  ; 0 ; 1 ;  ; 50083        ;  ; 8435406124449 ; 59 ; 54 ; 60 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+50084        ; 100 ; Juego de dos mesas de metal    ; Mueble ;  ;  ; 0 ; 1 ;  ; 50084        ;  ; 8435406124456 ; 55 ; 49 ; 60 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+50085        ; 100 ; Mesa rinconera cristal y metal ; Mueble ;  ;  ; 0 ; 1 ;  ; 50085        ;  ; 8435406124463 ; 51 ; 51 ; 50 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+50086        ; 100 ; Banco de metal                 ; Mueble ;  ;  ; 0 ; 1 ;  ; 50086        ;  ; 8435406124470 ; 80 ; 31 ; 54 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+50087        ; 100 ; Mesa centro de metal y cristal ; Mueble ;  ;  ; 0 ; 1 ;  ; 50087        ;  ; 8435406124487 ; 80 ; 80 ; 40 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+50088        ; 100 ; Espejo marco metal             ; Mueble ;  ;  ; 0 ; 1 ;  ; 50088        ;  ; 8435406124494 ; 132 ; 9 ; 132 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+50089        ; 100 ; Espejo marco metal             ; Mueble ;  ;  ; 0 ; 1 ;  ; 50089        ;  ; 8435406124500 ; 103 ; 3 ; 103 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+50090        ; 100 ; Espejo marco metal             ; Mueble ;  ;  ; 0 ; 1 ;  ; 50090        ;  ; 8435406124517 ; 110 ; 7 ; 110 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+50091        ; 100 ; Mesa rinconera metal y cristal ; Mueble ;  ;  ; 0 ; 1 ;  ; 50091        ;  ; 8435406124524 ; 65 ; 65 ; 64 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+50092        ; 100 ; Mesa rinconera metal y cristal ; Mueble ;  ;  ; 0 ; 1 ;  ; 50092        ;  ; 8435406124531 ; 50 ; 50 ; 56 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+50093        ; 100 ; Perchero de metal negro        ; Mueble ;  ;  ; 0 ; 1 ;  ; 50093        ;  ; 8435406124548 ; 50 ; 50 ; 180 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+50094        ; 100 ; Canasto balancÌn blanco        ; Mueble ;  ;  ; 0 ; 1 ;  ; 50094        ;  ; 8435406125071 ; 98 ; 118 ; 192 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+50095        ; 100 ; Canasto blanco y verde         ; Mueble ;  ;  ; 0 ; 1 ;  ; 50095        ;  ; 8435406125088 ; 98 ; 118 ; 192 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+50096        ; 100 ; Cabezal blanco lacado          ; Mueble ;  ;  ; 0 ; 1 ;  ; 50096        ;  ; 8435406125095 ; 160 ; 94 ; 192 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+50097        ; 100 ; Mesita noche blanca lacada     ; Mueble ;  ;  ; 0 ; 1 ;  ; 50097        ;  ; 8435406125101 ; 58 ; 50 ; 192 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+50098        ; 100 ; Chifonier blanco lacado        ; Mueble ;  ;  ; 0 ; 1 ;  ; 50098        ;  ; 8435406125118 ; 78 ; 120 ; 192 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+50099        ; 100 ; Cabezal blanco lacado          ; Mueble ;  ;  ; 0 ; 1 ;  ; 50099        ;  ; 8435406125125 ; 160 ; 93 ; 192 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+50100        ; 100 ; Mesita noche blanca lacada     ; Mueble ;  ;  ; 0 ; 1 ;  ; 50100        ;  ; 8435406125132 ; 52 ; 48 ; 192 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+50101        ; 100 ; Chifonier blanco lacado        ; Mueble ;  ;  ; 0 ; 1 ;  ; 50101        ;  ; 8435406125149 ; 60 ; 113 ; 192 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+50102        ; 100 ; Cabezal blanco lacado          ; Mueble ;  ;  ; 0 ; 1 ;  ; 50102        ;  ; 8435406125156 ; 160 ; 93 ; 192 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+50103        ; 100 ; Mesita noche blanca lacada     ; Mueble ;  ;  ; 0 ; 1 ;  ; 50103        ;  ; 8435406125163 ; 47 ; 45 ; 192 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+50104        ; 100 ; Chifonier blanco lacado        ; Mueble ;  ;  ; 0 ; 1 ;  ; 50104        ;  ; 8435406125170 ; 59 ; 105 ; 192 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+50105        ; 100 ; Cabezal blanco lacado          ; Mueble ;  ;  ; 0 ; 1 ;  ; 50105        ;  ; 8435406125187 ; 160 ; 96 ; 192 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+50106        ; 100 ; Mesita noche blanca lacada     ; Mueble ;  ;  ; 0 ; 1 ;  ; 50106        ;  ; 8435406125194 ; 48 ; 35 ; 192 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+50107        ; 100 ; Chifonier blanco lacado        ; Mueble ;  ;  ; 0 ; 1 ;  ; 50107        ;  ; 8435406125200 ; 59 ; 119 ; 192 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+50108        ; 100 ; Cabezal blanco lacado          ; Mueble ;  ;  ; 0 ; 1 ;  ; 50108        ;  ; 8435406125217 ; 160 ; 90 ; 192 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+50109        ; 100 ; Mesita noche blanca lacada     ; Mueble ;  ;  ; 0 ; 1 ;  ; 50109        ;  ; 8435406125224 ; 48 ; 45 ; 192 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+50110        ; 100 ; Chifonier blanco lacado        ; Mueble ;  ;  ; 0 ; 1 ;  ; 50110        ;  ; 8435406125231 ; 60 ; 115 ; 192 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+50112        ; 100 ; Cabezal blanco lacado          ; Mueble ;  ;  ; 0 ; 1 ;  ; 50112        ;  ; 8435406125255 ; 160 ; 88 ; 192 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+50113        ; 100 ; Mesita noche blanca lacada     ; Mueble ;  ;  ; 0 ; 1 ;  ; 50113        ;  ; 8435406125262 ; 55 ; 45 ; 192 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+50114        ; 100 ; Chifonier blanco lacado        ; Mueble ;  ;  ; 0 ; 1 ;  ; 50114        ;  ; 8435406125279 ; 68 ; 119 ; 192 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+50115        ; 100 ; Mesa TV blanca lacada          ; Mueble ;  ;  ; 0 ; 1 ;  ; 50115        ;  ; 8435406125286 ; 150 ; 35 ; 35 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+50116        ; 100 ; Mesa centro blanca lacada      ; Mueble ;  ;  ; 0 ; 1 ;  ; 50116        ;  ; 8435406125293 ; 118 ; 32 ; 35 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+50117        ; 100 ; Aparador blanco lacado         ; Mueble ;  ;  ; 0 ; 1 ;  ; 50117        ;  ; 8435406125309 ; 145 ; 90 ; 43 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+50118        ; 100 ; Mesa comedor blanca lacada     ; Mueble ;  ;  ; 0 ; 1 ;  ; 50118        ;  ; 8435406125316 ; 160 ; 90 ; 76 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+50123        ; 100 ; Mesita de cafÈ blanca          ; Mueble ;  ;  ; 0 ; 1 ;  ; 50123        ;  ; 8435406125637 ; 70 ; 70 ; 70 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+50124        ; 100 ; Mesa blanca patas madera       ; Mueble ;  ;  ; 0 ; 1 ;  ; 50124        ;  ; 8435406125644 ; 80 ; 80 ; 72 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+50126        ; 100 ; Taburete bar blanco            ; Mueble ;  ;  ; 0 ; 1 ;  ; 50126        ;  ; 8435406125668 ; 54 ; 47 ; 118 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+50127        ; 100 ; Mesa de comedor madera lacada  ; Mueble ;  ;  ; 0 ; 1 ;  ; 50127        ;  ; 8435406125675 ; 120 ; 70 ; 75 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+50129        ; 100 ; Aparador Forest color nogal    ; Mueble ;  ;  ; 0 ; 1 ;  ; 50129        ;  ; 8435406125699 ; 130 ; 40 ; 90 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+50130        ; 100 ; Mesa de centro de cristal      ; Mueble ;  ;  ; 0 ; 1 ;  ; 50130        ;  ; 8435406125705 ; 105 ; 65 ; 42 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+50133        ; 100 ; Mesa lacada blanca             ; Mueble ;  ;  ; 0 ; 1 ;  ; 50133        ;  ; 8435406125798 ; 120 ; 75 ; 75 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+50134        ; 100 ; Mesa centro de diseÒo cristal  ; Mueble ;  ;  ; 0 ; 1 ;  ; 50134        ;  ; 8435406125804 ; 110 ; 60 ; 45 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+50135        ; 100 ; Mesa centro de diseÒo cristal  ; Mueble ;  ;  ; 0 ; 1 ;  ; 50135        ;  ; 8435406125811 ; 110 ; 60 ; 45 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+50136        ; 100 ; SillÛn blanco y negro          ; Mueble ;  ;  ; 0 ; 1 ;  ; 50136        ;  ; 8435406125828 ; 55 ; 55 ; 85 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+50137        ; 100 ; SillÛn p˙rpura                 ; Mueble ;  ;  ; 0 ; 1 ;  ; 50137        ;  ; 8435406125835 ; 60 ; 75 ; 75 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+50138        ; 100 ; SillÛn orejero estampado       ; Mueble ;  ;  ; 0 ; 1 ;  ; 50138        ;  ; 8435406125842 ; 75 ; 75 ; 95 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+50139        ; 100 ; SillÛn estampado morado        ; Mueble ;  ;  ; 0 ; 1 ;  ; 50139        ;  ; 8435406125859 ; 65 ; 65 ; 80 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+50140        ; 100 ; SillÛn estampado beige         ; Mueble ;  ;  ; 0 ; 1 ;  ; 50140        ;  ; 8435406125866 ; 60 ; 60 ; 80 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+50141        ; 100 ; SillÛn estampado blanco negro  ; Mueble ;  ;  ; 0 ; 1 ;  ; 50141        ;  ; 8435406125873 ; 60 ; 60 ; 80 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+50147        ; 100 ; SillÛn tumbona polipiel blanco ; Mueble ;  ;  ; 0 ; 1 ;  ; 50147        ;  ; 8435406127754 ; 44 ; 170 ; 65 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+50149        ; 100 ; SillÛn con reposapiÈs blanca   ; Mueble ;  ;  ; 0 ; 1 ;  ; 50149        ;  ; 8435406127778 ; 75 ; 57 ; 65 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+50151        ; 100 ; SillÛn de diseÒo rojo          ; Mueble ;  ;  ; 0 ; 1 ;  ; 50151        ;  ; 8435406127792 ; 70 ; 60 ; 80 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+50154        ; 100 ; Chifonier 5 cajones plata      ; Mueble ;  ;  ; 0 ; 1 ;  ; 50154        ;  ; 8435406127907 ; 44 ; 35 ; 86 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+50155        ; 100 ; Mesa centro 3 cajones plata    ; Mueble ;  ;  ; 0 ; 1 ;  ; 50155        ;  ; 8435406127822 ; 86 ; 60 ; 34 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+50156        ; 100 ; Espejo marco plata             ; Mueble ;  ;  ; 0 ; 1 ;  ; 50156        ;  ; 8435406127839 ; 50 ; 2 ; 80 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+50159        ; 100 ; Chifonier 6 cajones blanco     ; Mueble ;  ;  ; 0 ; 1 ;  ; 50159        ;  ; 8435406127860 ; 42 ; 35 ; 86 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+50162        ; 100 ; Espejo marco blanco            ; Mueble ;  ;  ; 0 ; 1 ;  ; 50162        ;  ; 8435406127891 ; 50 ; 2 ; 80 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+50163        ; 100 ; Sof· tela 3 plazas gris        ; Mueble ;  ;  ; 0 ; 1 ;  ; 50163        ;  ; 8435406127945 ; 213 ; 100 ; 60 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+50164        ; 100 ; Sof· tela 2 plazas gris        ; Mueble ;  ;  ; 0 ; 1 ;  ; 50164        ;  ; 8435406127921 ; 180 ; 100 ; 60 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+50165        ; 100 ; Sof· tela 3 plazas marrÛn      ; Mueble ;  ;  ; 0 ; 1 ;  ; 50165        ;  ; 8435406127952 ; 213 ; 100 ; 60 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+50166        ; 100 ; Sof· tela 2 plazas marrÛn      ; Mueble ;  ;  ; 0 ; 1 ;  ; 50166        ;  ; 8435406127938 ; 180 ; 100 ; 60 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+50168        ; 100 ; Mueble escalera                ; Mueble ;  ;  ; 0 ; 1 ;  ; 50168        ;  ; 8435406120502 ; 88 ; 37 ; 90 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+50170        ; 100 ; Mueble escalera                ; Mueble ;  ;  ; 0 ; 1 ;  ; 50170        ;  ; 8435406120540 ; 88 ; 37 ; 90 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+50171        ; 100 ; Mueble escalera                ; Mueble ;  ;  ; 0 ; 1 ;  ; 50171        ;  ; 8435406120557 ; 88 ; 37 ; 90 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+50172        ; 100 ; Mueble escalera                ; Mueble ;  ;  ; 0 ; 1 ;  ; 50172        ;  ; 8435406120571 ; 88 ; 37 ; 90 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+50173        ; 100 ; Mueble escalera                ; Mueble ;  ;  ; 0 ; 1 ;  ; 50173        ;  ; 8435406120588 ; 88 ; 37 ; 90 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+50174        ; 100 ; Mueble escalera                ; Mueble ;  ;  ; 0 ; 1 ;  ; 50174        ;  ; 8435406120595 ; 88 ; 37 ; 90 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+50175        ; 100 ; Escalera de Bamb˙              ; Mueble ;  ;  ; 0 ; 1 ;  ; 50175        ;  ; 8435406120601 ; 39 ; 6 ; 171 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+50176        ; 100 ; Escalera de Bamb˙              ; Mueble ;  ;  ; 0 ; 1 ;  ; 50176        ;  ; 8435406120625 ; 39 ; 6 ; 171 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+50177        ; 100 ; Escritorio Havanna             ; Mueble ;  ;  ; 0 ; 1 ;  ; 50177        ;  ; 8435406120632 ; 130 ; 55 ; 78 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+50178        ; 100 ; Escritorio                     ; Mueble ;  ;  ; 0 ; 1 ;  ; 50178        ;  ; 8435406120649 ; 130 ; 55 ; 78 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+50179        ; 100 ; Mesa de comedor lacada         ; Mueble ;  ;  ; 0 ; 1 ;  ; 50179        ;  ; 8435406120656 ; 150 ; 90 ; 77 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+50180        ; 100 ; Mesa de comedor lacada         ; Mueble ;  ;  ; 0 ; 1 ;  ; 50180        ;  ; 8435406120670 ; 150 ; 90 ; 75 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+50182        ; 100 ; Mesa de centro lacada          ; Mueble ;  ;  ; 0 ; 1 ;  ; 50182        ;  ; 8435406120694 ; 125 ; 62 ; 45 ; Cm ; U ; 100 ; 0 ; 0 ; 0
+50184        ; 100 ; Mesa de centro lacada          ; Mueble ;  ;  ; 0 ; 1 ;  ; 50184        ;  ; 8435406120724 ; 120 ; 65 ; 44 ; Cm ; U ; 100 ; 0 ; 0 ; 0
