@@ -1,0 +1,5 @@
+Launch the makefile file in command line: 
+> makefile
+
+This file compiles the project and  creates the executable "processInventario" in the folder bin. This executable generate
+the file "output.csv" with the available products in the store. 
